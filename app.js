@@ -1,3 +1,6 @@
+
+
+
 class Budget {
     constructor(){
       this.amount = document.getElementById('amount');
